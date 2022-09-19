@@ -8,29 +8,27 @@
  * Return: int n
  */
 
-void print_number(int n)
+void print_numbers(int n)
 {
 
-unsigned int a;
+	unsigned int a;
+	if (n < 0)
+	{
+		a = -n;
+		_putchar('-');
+	}
 
-if (n < 0)
-{
+	else
+	{
 
-a = -n;
-_putchar('-');
-}
+		a = n;
+	}
 
-else
-{
+	if (a / 10)
+	{
 
-a = n;
-}
+		print_numbers(a / 10);
+	}
 
-if (a / 10)
-{
-
-print_number(a / 10);
-}
-
-_putchar((a % 10) + '0');
+	_putchar((a % 10) + '0');
 }
