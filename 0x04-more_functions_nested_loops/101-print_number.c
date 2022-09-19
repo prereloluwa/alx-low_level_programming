@@ -8,10 +8,11 @@
  * Return: int n
  */
 
-void print_numbers(int n)
+void print_number(int n)
 {
 
 	unsigned int a;
+
 	if (n < 0)
 	{
 		a = -n;
@@ -27,7 +28,7 @@ void print_numbers(int n)
 	if (a / 10)
 	{
 
-		print_numbers(a / 10);
+		print_number(a / 10);
 	}
 
 	_putchar((a % 10) + '0');
