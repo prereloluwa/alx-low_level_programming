@@ -1,4 +1,4 @@
-![Alt](https://cdn.programiz.com/sites/tutorial2program/files/how-recursion-works-c_0.jpg)\n
+![Alt](https://cdn.programiz.com/sites/tutorial2program/files/how-recursion-works-c_0.jpg)\\n
 
 General\n
  [What is recursion][1]\n
