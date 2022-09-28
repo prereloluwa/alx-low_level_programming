@@ -1,6 +1,6 @@
 ![Alt](https://cdn.programiz.com/sites/tutorial2program/files/how-recursion-works-c_0.jpg)<br>
 
-General
+General 
  [What is recursion][1]  
  [How to implement recursion][2]  
  [In what situations you should implement recursion][3]  
