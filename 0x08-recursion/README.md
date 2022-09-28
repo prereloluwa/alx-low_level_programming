@@ -1,11 +1,11 @@
-![Alt](https://cdn.programiz.com/sites/tutorial2program/files/how-recursion-works-c_0.jpg)
+![Alt](https://cdn.programiz.com/sites/tutorial2program/files/how-recursion-works-c_0.jpg)\n
 
-General
- [What is recursion][1]
- [How to implement recursion][2]
- [In what situations you should implement recursion][3]
- [In what situations you shouldn’t implement recursion][4]
- [Other Resources][5]
+General\n
+ [What is recursion][1]\n
+ [How to implement recursion][2]\n
+ [In what situations you should implement recursion][3]\n
+ [In what situations you shouldn’t implement recursion][4]\n
+ [Other Resources][5]\n
  
 
 [1]: https://alx-intranet.hbtn.io/rltoken/dzZB83Hm3lO7dScjhebAxw/ "Recursion"
