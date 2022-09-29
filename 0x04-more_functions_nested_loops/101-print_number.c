@@ -7,9 +7,9 @@
  *
  * Return: Always 0
  */
+
 void print_number(int n)
 {
-
 	int a = n;
 
 	if (n < 0)
@@ -17,7 +17,6 @@ void print_number(int n)
 		_putchar(45);
 		a = -a;
 	}
-
 	if (a / 10)
 	{
 		print_number(a / 10);
