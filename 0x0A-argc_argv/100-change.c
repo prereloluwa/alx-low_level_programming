@@ -11,7 +11,6 @@
 
 int main(int argc, char *argv[])
 {
-
 	int cents = 0, index, focus;
 	int coins[] = {25, 10, 5, 2, 1};
 
@@ -33,6 +32,7 @@ int main(int argc, char *argv[])
 		while (focus >= coins[index])
 		{
 			cents++;
+
 			focus -= coins[index];
 		}
 	}
