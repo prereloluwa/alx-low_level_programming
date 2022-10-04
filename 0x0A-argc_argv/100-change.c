@@ -12,17 +12,16 @@
 int main(int argc, char *argv[])
 {
 
-	int cents, index, focus;
+	int cents = 0, index, focus;
 	int coins[] = {25, 10, 5, 2, 1};
 
-	if (argc != 2)
+	if (argc != 1)
 	{
 		printf("Error\n");
 		return (1);
 	}
 
 	focus = atoi(argv[1]);
-	cents = 0;
 
 	if (focus < 0)
 	{
@@ -34,8 +33,6 @@ int main(int argc, char *argv[])
 		while (focus >= coins[index])
 		{
 			cents++;
-
-			/*focus = focus - coins[index]*/
 			focus -= coins[index];
 		}
 	}
