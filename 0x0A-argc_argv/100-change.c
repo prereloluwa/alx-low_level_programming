@@ -25,6 +25,7 @@ int main(int argc, char *argv[])
 	if (focus < 0)
 	{
 		printf("0\n");
+		return (0);
 	}
 
 	for (index = 0; index < 5 && focus >= 0; index++)
