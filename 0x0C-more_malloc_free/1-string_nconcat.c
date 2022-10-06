@@ -1,10 +1,11 @@
 #include <stdlib.h>
 /**
  * string_nconcat - a function that concatenates two strings
- * @s1: string 1
- * @s2: string 2
- * @n: number of strings
- * Return: the pointer os
+ * @s1: first string.
+ * @s2: second string.
+ * @n: amount of bytes.
+ *
+ * Return: pointer to the allocated memory..
  */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
@@ -32,13 +33,15 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 
 	if (os == NULL)
 		return (NULL);
+
 	for (indx = 0; indx < osl; indx++)
+	{
 		if (indx < sl1)
 			os[indx] = s1[indx];
 		else
 			os[indx] = s2[indx - sl1];
-
-				os[indx] = '\0';
+	}
+	os[indx] = '\0';
 
 	return (os);
 }
