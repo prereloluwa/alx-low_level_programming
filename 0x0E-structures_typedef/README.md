@@ -1,4 +1,4 @@
-(https://s3.amazonaws.com/alx-intranet.hbtn.io/uplo…80dd06b9b0ccb2d1001adec0b202ecb939bb2c02effa747aa/ "Title")
+![Alt](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/50af78a28a081e809856d4cdbde2d7ca9d4aa93d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221011T143903Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0e7213c6e303f6448f1813ea92fdfb5436eb089b708c5b06cbe26b5436959824)
       
 General:   
 > What are structures, when, why and how to use them   
