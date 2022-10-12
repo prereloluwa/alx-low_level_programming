@@ -1,3 +1,5 @@
+[![](CSF-Images.A.7.png)](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/_images/CSF-Images.A.7.png)
+
 General
 - What are function pointers and how to use them
 - What does a function pointer exactly hold
