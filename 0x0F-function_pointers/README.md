@@ -5,7 +5,7 @@ General
 - What does a __function pointer__ exactly hold
 - Where does a **function pointer** _point to_ in the *virtual memory*
 
-Links: _
+Links:
 - [Function Pointer in C](https://alx-intranet.hbtn.io/rltoken/yt8Q9jxzT_gyRAvnNkAgkw)
 - [Pointers to functions](https://alx-intranet.hbtn.io/rltoken/wP-yWvo9IqbcQsywMmh_iQ)
 - [Function Pointers in C / C++][1]
