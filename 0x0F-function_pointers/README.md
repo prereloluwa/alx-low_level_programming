@@ -1,11 +1,11 @@
 ![](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/_images/CSF-Images.A.7.png)
 
-General __Strong__
-- What are function pointers and how to use them
-- What does a function pointer exactly hold
-- Where does a function pointer point to in the virtual memory
+General
+- What are **function pointers** and how to use them
+- What does a __function pointer__ exactly hold
+- Where does a **function pointer** _point to_ in the *virtual memory*
 
-Links: _emphasize_
+Links: _
 - [Function Pointer in C](https://alx-intranet.hbtn.io/rltoken/yt8Q9jxzT_gyRAvnNkAgkw)
 - [Pointers to functions](https://alx-intranet.hbtn.io/rltoken/wP-yWvo9IqbcQsywMmh_iQ)
 - [Function Pointers in C / C++][1]
